@@ -1,4 +1,4 @@
-# Get Movie Title
+# Get Movie Rate
 
 import requests
 import aiohttp
